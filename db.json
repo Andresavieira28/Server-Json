@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "name": "João Silva",
+        "cpf": "123.456.789-00",
+        "sexo": "Masculino"
+    },
+    {
+        "id": 2,
+        "name": "Maria Souza",
+        "cpf": "987.654.321-00",
+        "sexo": "Feminino"
+    },
+    {
+        "id": 3,
+        "name": "Pedro Santos",
+        "cpf": "456.789.123-00",
+        "sexo": "Masculino"
+    },
+    {
+        "id": 4,
+        "name": "Ana Oliveira",
+        "cpf": "321.654.987-00",
+        "sexo": "Feminino"
+    },
+    {
+        "id": 5,
+        "name": "Lucas Pereira",
+        "cpf": "789.123.456-00",
+        "sexo": "Masculino"
+    },
+    {
+        "id": 6,
+        "name": "Juliana Martins",
+        "cpf": "654.987.321-00",
+        "sexo": "Feminino"
+    },
+    {
+        "id": 7,
+        "name": "Carlos Lima",
+        "cpf": "234.567.890-00",
+        "sexo": "Masculino"
+    },
+    {
+        "id": 8,
+        "name": "Amanda Costa",
+        "cpf": "876.543.210-00",
+        "sexo": "Feminino"
+    },
+    {
+        "id": 9,
+        "name": "Mateus Rodrigues",
+        "cpf": "345.678.901-00",
+        "sexo": "Masculino"
+    },
+    {
+        "id": 10,
+        "name": "Patrícia Almeida",
+        "cpf": "789.012.345-00",
+        "sexo": "Feminino"
+    },
+    {
+        "id": 11,
+        "name": "Fernando Ribeiro",
+        "cpf": "456.789.012-00",
+        "sexo": "Masculino"
+    },
+    {
+        "id": 12,
+        "name": "Vanessa Santos",
+        "cpf": "901.234.567-00",
+        "sexo": "Feminino"
+    },
+    {
+        "id": 13,
+        "name": "Rafael Oliveira",
+        "cpf": "678.901.234-00",
+        "sexo": "Masculino"
+    },
+    {
+        "id": 14,
+        "name": "Carolina Pereira",
+        "cpf": "345.678.901-00",
+        "sexo": "Feminino"
+    },
+    {
+        "id": 15,
+        "name": "Guilherme Martins",
+        "cpf": "012.345.678-00",
+        "sexo": "Masculino"
+    },
+    {
+        "id": 16,
+        "name": "Camila Costa",
+        "cpf": "890.123.456-00",
+        "sexo": "Feminino"
+    },
+    {
+        "id": 17,
+        "name": "Leonardo Almeida",
+        "cpf": "567.890.123-00",
+        "sexo": "Masculino"
+    },
+    {
+        "id": 18,
+        "name": "Marina Ribeiro",
+        "cpf": "234.567.890-00",
+        "sexo": "Feminino"
+    },
+    {
+        "id": 19,
+        "name": "Gabriel Lima",
+        "cpf": "678.901.234-00",
+        "sexo": "Masculino"
+    },
+    {
+        "id": 20,
+        "name": "Larissa Fernandes",
+        "cpf": "901.234.567-00",
+        "sexo": "Feminino"
+    }
+]
+
